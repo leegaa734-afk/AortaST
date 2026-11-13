@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.npz
+*.pth
+*.pt
+data/features112/
+data/labels112/
+data/tiles/
+results/*.png
+results/*.pdf
+.DS_Store
+Thumbs.db

@@ -1,0 +1,22 @@
+{
+  "model": "AortaST",
+  "root": ".",
+  "feature_dir": "data/features112",
+  "label_dir": "data/labels112",
+  "development_patients": ["con1", "con3", "A2", "A5", "A6", "A7", "C1", "C2", "C9", "C11"],
+  "test_patients": ["con5", "C6", "C5"],
+  "region_um": 112,
+  "bins_per_region": 7,
+  "tile_px": 224,
+  "micron_per_px": 0.5,
+  "encoder": "CTransPath (frozen, 768-d)",
+  "panel_size": 100,
+  "mlp_hidden": 128,
+  "dropout": 0.2,
+  "lr": 5e-4,
+  "weight_decay": 1e-4,
+  "batch_size": 128,
+  "epochs": 200,
+  "seeds": 10,
+  "smooth_radius": 1
+}

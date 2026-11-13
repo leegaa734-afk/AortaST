@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use AortaST, please cite the article below."
+title: AortaST
+abstract: "H&E-only prediction of spatially resolved gene expression in human aorta."
+type: software
+license: MIT
+authors:
+  - family-names: "<surname>"
+    given-names: "<given>"
+repository-code: "https://github.com/<user>/AortaST"
+keywords:
+  - spatial transcriptomics
+  - computational pathology
+  - H&E
+  - aorta
+  - gene expression prediction
