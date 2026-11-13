@@ -138,12 +138,16 @@ median expression and averaged across patients.
 
 ## Citation
 
+**Author:** Genmao Cao — Zhongshan Hospital, Fudan University, Shanghai, China
+
 ```bibtex
-@article{<key>,
-  title   = {AortaST: H\&E-only prediction of spatially resolved gene expression in human aorta},
-  author  = {<authors>},
-  journal = {<journal>},
-  year    = {<year>}
+@software{cao2026aortast,
+  title     = {AortaST: H\&E-only prediction of spatially resolved gene expression in human aorta},
+  author    = {Cao, Genmao},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/leegaa734-afk/AortaST},
+  note      = {Zhongshan Hospital, Fudan University}
 }
 ```
 
